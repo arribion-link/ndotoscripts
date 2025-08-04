@@ -4,19 +4,19 @@ const HiWbuyer = () => {
       <div>
       <HowItWorksCards
         icon="Icon"
-        Description="Create an account"
+        description="Create an account"
     />
         <HowItWorksCards
         icon="Icon"
-        Description="Create an account"
+        description="Create an account"
     />
         <HowItWorksCards
         icon="Icon"
-        Description="Create an account"
+        description="Create an account"
     />
         <HowItWorksCards
         icon="Icon"
-        Description="Create an account"
+        description="Create an account"
     />
     </div>
   )
